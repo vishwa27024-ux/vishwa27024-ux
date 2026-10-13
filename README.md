@@ -13,7 +13,7 @@
   <a href="https://github.com/vishwa27024-ux">
     <img src="https://img.shields.io/github/followers/vishwa27024-ux?style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/vishwa27024-ux">
+  <a href="https://komarev.com/ghpvc/?username=vishwa27024-ux">
     <img src="https://komarev.com/ghpvc/?username=vishwa27024-ux&style=for-the-badge&color=blue" alt="Profile views" />
   </a>
 </p>
@@ -38,9 +38,9 @@
 
 🤖 Developing **NEXYRA**, a multimodal AI companion robot project.
 
-🌊 Working on **MARINE GUARDIAN**, a concept for AI-based coastal marine pollution risk forecasting and early warning.
+🌊 Developing **MARINE GUARDIAN**, an AI-based coastal marine pollution risk forecasting and early-warning project.
 
-🎯 My goal is to become an AI/ML engineer who can design, build, test, and deploy useful intelligent systems.
+🎯 My goal is to become an AI/ML engineer capable of building and deploying useful intelligent systems.
 
 ---
 
@@ -68,54 +68,42 @@
 
 ## 🚀 Featured Projects
 
+### 📊 Business Data Cleaning Engine
+
+**Python | Pandas | Excel Automation**
+
+A practical data-processing project focused on cleaning messy business spreadsheets and generating structured Excel outputs.
+
+- Remove duplicate records.
+- Standardize date formats.
+- Clean and organize spreadsheet data.
+- Generate cleaned Excel files for business workflows.
+
+🔗 **[View Repository](https://github.com/vishwa27024-ux/Business_Data_Cleaning_Engine)**
+
+---
+
 ### 🤖 NEXYRA — Multimodal AI Companion Robot
 
-An AI companion robot project focused on combining different input modes and intelligent task execution.
-
-**Planned capabilities include:**
-- 🎙️ Voice interaction
-- 👁️ Camera-based perception
-- ✋ Hand gesture recognition
-- 🧠 LLM-powered reasoning and intent interpretation
-- 🖥️ Digital computer interaction
-- ⚙️ Integration with physical robot hardware
+A project in development exploring a compact AI companion that combines voice interaction, computer vision, hand gestures, LLM-based reasoning, and digital task execution.
 
 **Technologies explored:** Python, OpenCV, MediaPipe, LLM APIs, ESP32.
 
 **Status:** In development.
 
+*Repository coming when the project code and documentation are ready.*
+
 ---
 
 ### 🌊 MARINE GUARDIAN — Coastal Pollution Risk Forecasting
 
-A proposed AI-based system for coastal marine pollution risk forecasting and early warning.
-
-**Project goals:**
-- 📊 Analyze relevant environmental and pollution data
-- 🌊 Explore coastal pollution risk indicators
-- 📈 Present risk information through a dashboard
-- 🚨 Design an early-warning and recommendation workflow
+An AI-based project focused on exploring coastal marine pollution indicators, risk forecasting, data visualization, and early-warning workflows.
 
 **Focus areas:** Data analysis, machine learning, visualization, environmental technology.
 
-**Status:** Project development and implementation.
+**Status:** In development.
 
----
-
-### 📊 Business Data Cleaning Engine
-
-A Python and Pandas automation project designed to process messy business spreadsheets.
-
-**Key capabilities:**
-- Clean spreadsheet data
-- Identify and remove duplicate records
-- Standardize date formats
-- Generate cleaned Excel outputs
-- Support repeatable business data-processing workflows
-
-**Technologies:** Python, Pandas, Excel automation.
-
-**Status:** Practical project.
+*Repository coming when the project code and documentation are ready.*
 
 ---
 
@@ -123,10 +111,10 @@ A Python and Pandas automation project designed to process messy business spread
 
 - Python programming and problem-solving
 - Data structures and algorithms
-- SQL and database fundamentals
+- SQL and databases
 - NumPy and Pandas
 - Machine learning fundamentals
-- Deep learning foundations
+- Deep learning
 - Computer vision
 - LLM application development
 - Git and GitHub workflows
@@ -165,13 +153,9 @@ I believe in learning by building, understanding the code I write, and improving
 
 ## 🤝 Connect With Me
 
-I'm interested in connecting with people working in AI, machine learning, computer vision, and intelligent automation.
-
 - 🌐 **Portfolio:** https://portfilo-psi-nine.vercel.app/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vishwa-s-36ba993a9
 - 🐙 **GitHub:** https://github.com/vishwa27024-ux
-
----
 
 <div align="center">
 
